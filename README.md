@@ -1,1 +1,2 @@
 # WebDevPractice
+一个简单的网络应用开发练习仓库
